@@ -55,7 +55,15 @@ const LeftNav = () => {
                 })}
                 <hr className="my-5 border-white/[0.2]" />
                 <div className="text-white/[0.5] text-[12px]">
-                    Clone by: JS Dev Hindi
+                AboutPressCopyright
+                ContactUs Creators
+                AdvertiseDevelopers
+
+                Terms Privacy Policy&Safety
+                How YouTube works
+                Test new features
+                
+                © 2023 Google LLC
                 </div>
             </div>
         </div>
